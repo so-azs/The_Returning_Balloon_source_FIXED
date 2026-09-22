@@ -1,0 +1,6 @@
+{
+  "name": "طريق الغيوم",
+  "description": "لعبة استكشاف شاعرية ثنائية الأبعاد، يتحكم فيها اللاعب بشيء صغير  ينجرف عبر السماء والغيوم ليعود إلى نافذة .",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
